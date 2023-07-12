@@ -358,6 +358,12 @@ description: The One Fact Foundation team is on a mission to change global healt
 - Internship, Biomedical Research for Reproductive Health
 
 ---
+- `Raghav Bansal`
+- [raghav@onefact.org](mailto:raghav@onefact.org)
+- [LinkedIn](https://www.linkedin.com/in/raghav-bansal-658960254/)
+- Chief of Data Engineering and Visualizations
+
+---
 
 - ![uche-aneni](/images/uche.jpg)
 - `Uche Aneni`
